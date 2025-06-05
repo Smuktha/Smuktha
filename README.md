@@ -1,4 +1,4 @@
-# 💫 About Me:   
+# 💫 About Me:     
  I’m currently working on full-stack projects like Discovery Dental and real-time web apps using Next.js, MongoDB, and Tailwind CSS.<br>🤝 I’m looking to collaborate on internships, open-source contributions, and project-based learning teams.<br>🧠 I’m looking for help with backend development best practices and clean code architecture.<br>🌱 I’m currently learning advanced React, API integrations, and web deployment.<br>💬 Ask me about learning strategies, personal project building, and web development roadmaps.
 
 
