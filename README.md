@@ -1,7 +1,7 @@
 # 💫 About Me:        
  I’m currently working on full-stack projects like Discovery Dental and real-time web apps using Next.js, MongoDB, and Tailwind CSS.<br> I’m looking to collaborate on internships, open-source contributions, and project-based learning teams.<br> I’m looking for help with backend development best practices and clean code architecture.<br>I’m currently learning advanced React, API integrations, and web deployment.
      
-     
+      
 ## 🌐 Socials: 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@mukx1935) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mukth.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muktha-suvarna12) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mukthas701) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mukx251427) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukthas701@gmail.com) 
 
