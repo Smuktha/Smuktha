@@ -1,5 +1,5 @@
 # 💫 About Me:    
- I’m currently working on full-stack projects like Discovery Dental and real-time web apps using Next.js, MongoDB, and Tailwind CSS.<br> I’m looking to collaborate on internships, open-source contributions, and project-based learning teams.<br> I’m looking for help with backend development best practices and clean code architecture.<br>I’m currently learning advanced React, API integrations, and web deployment.
+I’m currently working as a Quality Assurance Engineer Intern, gaining hands-on experience in a real production environment. I test features, analyze root causes of issues, and document them clearly using tools like Jira. I collaborate closely with developers to improve system stability and overall product quality. Alongside my internship, I’m continuously strengthening my full-stack development skills to grow into a well-rounded software engineer..
      
       
 ## 🌐 Socials: 
