@@ -1,4 +1,4 @@
-# 💫 About Me:    
+# 💫 About Me:
 I’m currently working as a Quality Assurance Engineer Intern, gaining hands-on experience in a real production environment. I test features, analyze root causes of issues, and document them clearly using tools like Jira. I collaborate closely with developers to improve system stability and overall product quality. Alongside my internship, I’m continuously strengthening my full-stack development skills to grow into a well-rounded software engineer..
      
       
